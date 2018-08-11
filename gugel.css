@@ -76,7 +76,7 @@ a div .material-icons.notif{
 	position: absolute;
 	font-size: 15px;
 	color:rgb(255, 255, 255);
-	left:3px;
+	left:4px;
 	top :3px;
 }
 .rounded1{
@@ -90,6 +90,6 @@ a div .material-icons.notif{
 }
 a div .isi{
 	position: absolute;
-	left: 12px;
+	left: 13px;
 	top: 5px;
 }
